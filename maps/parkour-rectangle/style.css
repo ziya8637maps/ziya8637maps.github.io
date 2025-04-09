@@ -21,7 +21,6 @@
     display: block;
     text-align: left;
     font-family: Impact, fantasy;
-    font-weight: bold;
     padding-top: 30px;
     padding-bottom: 10px;
     font-size: 30px;
@@ -40,7 +39,6 @@
     display: block;
     text-align: left;
     font-family: Impact, fantasy;
-    font-weight: bold;
     font-size: 20px;
     display: flex;
 }
