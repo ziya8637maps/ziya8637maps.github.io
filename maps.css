@@ -39,3 +39,20 @@
 .parkour_rectangle-2:hover {
     transform: scale(1.05);
 }
+.parkour_rectangle-3 {
+    width: 21rem;
+    text-decoration: none;
+    color: black;
+    border: 2px solid #a5a5a5;
+    padding-bottom: 20px;
+    margin: 50px !important;
+    font-size: 15px;
+    border-radius: 6px;
+    transition: .3s;
+}
+.parkour-rectangle-3-icon {
+    width: 100%;
+}
+.parkour_rectangle-3:hover {
+    transform: scale(1.05);
+}
