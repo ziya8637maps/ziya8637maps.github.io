@@ -1,0 +1,85 @@
+.content {
+    background-color: white;
+    background-image: linear-gradient(to right, #3CB371, white, white, white, white, white, white, white, #3CB371);
+}
+.title {
+    font-size: 50px;
+    padding-top: 30px;
+    font-family: Impact, fantasy;
+}
+.description {
+    max-width: 800px;
+    margin: auto;
+    display: block;
+    text-align: left;
+    font-family: Impact, fantasy;
+    padding-bottom: 30px;
+}
+.rank_times {
+    max-width: 800px;
+    margin: auto;
+    display: block;
+    text-align: left;
+    font-family: Impact, fantasy;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    font-size: 30px;
+}
+.ranks {
+    max-width: 800px;
+    margin: auto;
+    display: block;
+    text-align: left;
+    font-family: Impact, fantasy;
+    font-size: 20px;
+}
+.features {
+    max-width: 800px;
+    margin: auto;
+    display: block;
+    text-align: left;
+    font-family: Impact, fantasy;
+    font-size: 20px;
+    display: flex;
+}
+.Buttons1 {
+    font-family: Impact, fantasy;
+    text-decoration: none;
+    background-color: #019242;
+    padding: 15px;
+    border-radius: 15px;
+    color: white;
+}
+.button_bar {
+    background-image: linear-gradient(to right, #3CB371, white, white, white, white, white, white, white, #3CB371);
+    background-color: white;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.Buttons1:hover {
+    color: #007233;
+}
+.screenshots {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 100%;
+}
+.video {
+    margin: 25px !important;
+}
+.image {
+    margin: 25px !important;
+}
+.server_description {
+    font-family: Impact, fantasy;
+    max-width: 800px;
+    margin: auto;
+    display: block;
+    text-align: left;
+    padding-bottom: 20px;
+    padding-top: 40px;
+    font-size: 30px;
+}
